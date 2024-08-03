@@ -1,0 +1,10 @@
+-----------------
+Tener instalado Python version 24 en adelante
+abrir el cmd en administrador y poner el siguiente comando
+pip install bitcoinlib
+tener una api en Blockcypher crear un token
+Modificar la API del programa
+Abrir el CMD en administrador de nuevo
+Ejecutar el archivo python segun adonde uds lo tengan guardado
+IMPORTANTE: EDITAR EL ARCHIVO PYTHON CON UN EDITOR
+VSCODE,etc.
